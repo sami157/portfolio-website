@@ -8,6 +8,14 @@
     "wdth" 100;
 }
 
+.btn-font{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 20px;
+  font-variation-settings:
+    "wdth" 100;
+}
 .nav-title{
     font-weight: 800;
     font-size: 45px;
