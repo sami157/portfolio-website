@@ -58,3 +58,21 @@ nav ul{
     border-radius: 6px;
     border: none;
 }
+
+.btn-alt{
+    background-color: white;
+    font-weight: 700;
+    font-size: 20px;
+    color: orange;
+    padding: 18px 35px;
+    border-radius: 6px;
+    border-color: orange;
+    border-width: 1px;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+
+}
+
